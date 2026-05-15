@@ -1,0 +1,18 @@
+[project]
+name = "apitts"
+version = "0.1.0"
+description = "Free self-hosted Text-to-Speech API powered by Kokoro"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "flask>=3.1.0",
+    "flask-cors>=5.0.0",
+    "huggingface-hub>=0.24.0",
+    "kokoro>=0.9.4",
+    "misaki[en]>=0.9.3",
+    "numpy>=2.0.0",
+    "soundfile>=0.12.1",
+]
+
+[tool.uv]
+seed = true
