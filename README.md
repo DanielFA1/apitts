@@ -1,6 +1,6 @@
 # ApiTTS
 
-Motor de síntese de voz gratuito e auto-hospedado, construído sobre o [Kokoro TTS](https://github.com/hexgrad/kokoro). Criado com o intuito de ser usado no [Mintalit](https://mintalit.com), mas funciona para qualquer aplicação.
+Engine de TTS Gratuita e auto-hospedado, construído sobre o [Kokoro TTS](https://github.com/hexgrad/kokoro). Criado com o intuito de ser usado no [Mintalit](https://mintalit.com), mas funciona para qualquer aplicação.
 
 Rode localmente, consuma via API REST, integre onde quiser.
 
